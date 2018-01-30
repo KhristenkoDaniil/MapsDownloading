@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MapsDownloading</string>
+    <string name="download_url">http://download.osmand.net/download.php?standard=yes&file=%s_%s%s_europe_2.obf.zip</string>
 </resources>
